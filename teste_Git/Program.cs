@@ -14,6 +14,7 @@ namespace teste_Git
             {
                 Console.Write($"\n{i + 1} oi");
             }
+            Console.WriteLine("Novo comando");
         }
     }
 }
